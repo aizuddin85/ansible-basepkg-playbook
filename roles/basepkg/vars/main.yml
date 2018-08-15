@@ -1,0 +1,10 @@
+---
+# vars file for basepkg
+basepkgs_el7:
+  - chrony
+  - rsyslog
+  - openssh-server
+  - openssh-client
+  - python
+  - bash-completion
+  - firewalld
